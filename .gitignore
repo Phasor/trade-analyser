@@ -18,5 +18,4 @@ session/
 # Output or logs (optional)
 *.log
 *.csv
-*.md
 *.json
