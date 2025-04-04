@@ -1,0 +1,22 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Telethon session files
+session/
+*.session
+*.session-journal
+
+# Secrets
+.env
+
+# VS Code or PyCharm project files (optional)
+.vscode/
+.idea/
+
+# Output or logs (optional)
+*.log
+*.csv
+*.md
+*.json
